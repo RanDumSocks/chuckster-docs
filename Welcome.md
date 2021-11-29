@@ -10,7 +10,7 @@ Some pages might not be currently up to date, check the tags for what version th
 
 ### Contents
 - [[Changelog]]
-- Usage
+- Usage (10% done)
 	- [[Inviting Chuckster]]
 	- [[Modules]]
 	- [[Permissions]]
