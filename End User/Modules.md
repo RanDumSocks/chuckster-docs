@@ -1,5 +1,5 @@
 ---
-tags: version/5.1.0beta
+tags: bot-version/5.1.0beta
 ---
 
 # Modules
@@ -15,6 +15,29 @@ The help command should look similar to this:
 - [[Poll]] - Create fully customisable polls which other people can vote on.
 - [[Roles]] - Create interractive messages which allow users to select a list of roles.
 - [[Twitter Game]] - Fun game where you and your friends try to guess who sent to displayed tweet.
+
+### Module Command Formatting
+Module command parameters will be formatted as the following:
+
+```ad-param
+title: Example of a required parameter
+```
+
+```ad-paramop
+title: Example of an optional parameter
+```
+
+The icon determines what type of data should be entered:
+
+```ad-param
+title: Integer
+icon: hashtag
+```
+
+```ad-param
+title: String
+icon: font
+```
 
 ## Enabling Modules
 To enable a module on your server, and administrator must use the `/enablemodule` command. When selected, you will see a list of modules you are allowed to enable. Select one and send the command to instantly enable the module in your server.

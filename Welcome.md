@@ -1,5 +1,5 @@
 ---
-tags: version/5.1.0beta
+tags: bot-version/5.1.0beta
 ---
 
 ## Welcome
@@ -12,7 +12,10 @@ Some pages might not be currently up to date, check the tags for what version th
 - [[Changelog]]
 - Usage (10% done)
 	- [[Inviting Chuckster]]
-	- [[Modules]]
 	- [[Permissions]]
-- Development
-	- [[Issues]]
+	- [[Modules]]
+		-  [[Events]]
+		-  [[Plan]]
+		-  [[Poll]]
+		-  [[Roles]]
+		-  [[Twitter Game]]

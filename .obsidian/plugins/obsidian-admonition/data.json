@@ -1,5 +1,28 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "param": {
+      "type": "param",
+      "color": "78, 210, 75",
+      "icon": {
+        "name": "sliders-h",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Parameter",
+      "injectColor": true
+    },
+    "paramop": {
+      "type": "paramop",
+      "color": "194, 177, 66",
+      "icon": {
+        "name": "sliders-h",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Parameter [optional]",
+      "injectColor": true
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "6.6.1",

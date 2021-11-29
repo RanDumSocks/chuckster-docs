@@ -1,5 +1,5 @@
 ---
-tags: version/5.1.0beta
+tags: bot-version/5.1.0beta
 ---
 
 # Permissions
