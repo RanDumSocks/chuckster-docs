@@ -18,5 +18,6 @@ When a new version of Chuckster is released, the docs are most likely already up
 1. Navigate to the repo folder in git
 2. Pull remote updates:
 ```
-$ git pull
+$ git fetch --all
+$ git reset --hard origin/main
 ```
